@@ -1,2 +1,6 @@
 pandas
 matplotlib
+plotly_express
+folium
+plotly.subplots
+numpy
