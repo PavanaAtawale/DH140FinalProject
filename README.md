@@ -1,7 +1,19 @@
 # DH140FinalProject
 
-I decided to focus on the topic of discrimination on the basis of sex, specifically in the professional sector. As a woman who is involved in the Computer Science field, I am extremely aware of the discrepancies between how my male peers (in academia or industry) are treated compared to my female peers and myself. I have heard many so-called horror stories from other women in my life about their professional experiences being hampered by their gendered. I wondered if this was a general trend, or only in the CS field. I decided to use this project as a way for me to explore not only the presence of this discrimination, but also the possible causes of these discrepancies in the way women are treated at work.
-
-I am aiming to answer the following question: **What factors play a role in the differences in female and male employment?**
+In this project, I decided to focus on the topic of female employment. Specifically, I am aiming to answer the following question: **What factors play a role in the differences in female and male employment?**
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/patawale/DH140FinalProject/HEAD)
+
+BLOG SITE LINK
+
+In this repository are the following files:
+* README.md
+    * The current file, used to explain my project and this repository.
+* Final_Project.ipynb
+    * This is my Jupyter Notebook with all my code for my data visualizations, as well as my analysis. 
+* datasets.zip
+    * This is a zip file containing all my datasets, obtained from the World Bank Gender Portal.
+* WorldBank.geojson
+    * This is a geojson file I located, also from the World Bank, containing the borders for all the countries involved in my data.
+* requirements.txt
+    * This is a file with all the Python libraries used in my Jupyter notebook, to be used for Binder. 
