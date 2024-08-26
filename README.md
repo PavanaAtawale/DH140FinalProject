@@ -1,4 +1,4 @@
-# DH140FinalProject
+# Female Employment - DH140 Final Project
 
 In this project, I decided to focus on the topic of female employment. Specifically, I am aiming to answer the following question: **What factors play a role in the differences in female and male employment?**
 
