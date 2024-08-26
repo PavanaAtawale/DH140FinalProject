@@ -11,7 +11,7 @@ In this repository are the following files:
     * The current file, used to explain my project and this repository.
 * Final_Project.ipynb
     * This is my Jupyter Notebook with all my code for my data visualizations, as well as my analysis.
-* https://patawale.github.io/DH140Blog/posts/Final.html
+* [https://patawale.github.io/DH140Blog/posts/Final.html](https://pavanaatawale.github.io/DH140Blog/posts/Final.html)
     * This is the link to my blog post.
 * BlogPost.html
     * This is an old html file for my blog post. For context, I was unable to get the Quarto process to work without crashing for quite some time, so I included the html file here, to show the post without the Quarto site.
